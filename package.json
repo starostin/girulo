@@ -1,0 +1,25 @@
+{
+  "name": "girulo",
+  "version": "2.0.4",
+  "description": "Nice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "star-tea": "^1.0.4",
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starostin/girulo"
+  },
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "starostin"
+}
